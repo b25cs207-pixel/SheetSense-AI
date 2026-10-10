@@ -1,0 +1,121 @@
+Student_ID,Student_Name,Department,Gender,Attendance_Pct,Study_Hours_Weekly,Midterm_Score,Final_Score,Total_Score,Grade,Assignment_Rate_Pct,Extra_Curricular
+STU-202401,Avery Brown,Data Science,Female,78.4,19.0,56.7,63.1,60.5,C,64.8,Debate
+STU-202402,Jordan Jones,Electrical Eng,Male,76.1,7.7,49.5,51.3,50.6,D,65.0,Debate
+STU-202403,Pat Brown,Computer Science,Female,85.5,19.0,64.8,73.4,70.0,B,72.3,Debate
+STU-202404,Morgan Miller,Computer Science,Female,96.1,27.3,83.4,76.6,79.3,B,78.4,Sports
+STU-202405,Chris Lopez,Mechanical Eng,Male,94.3,12.9,56.9,64.4,61.4,C,83.0,Music
+STU-202406,Casey Martinez,Civil Eng,Male,55.6,20.0,58.9,67.5,64.1,C,53.9,Sports
+STU-202407,Jordan Johnson,Computer Science,Female,78.8,21.0,72.0,72.8,72.5,B,73.0,Debate
+STU-202408,Reese Hernandez,Electrical Eng,Male,71.7,32.7,80.0,76.8,78.1,B,74.0,Robotics Club
+STU-202409,Jordan Williams,Mechanical Eng,Female,93.8,16.3,70.7,68.4,69.3,C,88.0,Music
+STU-202410,Jordan Jones,Electrical Eng,Female,86.6,19.0,65.2,70.3,68.3,C,87.1,Robotics Club
+STU-202411,Jordan Jones,Electrical Eng,Male,71.1,5.4,39.3,43.0,41.5,D,69.8,Debate
+STU-202412,Casey Brown,Data Science,Female,90.4,15.0,64.8,71.4,68.8,C,89.2,Debate
+STU-202413,Casey Smith,Electrical Eng,Male,79.1,11.5,42.7,54.2,49.6,D,65.2,Music
+STU-202414,Cameron Hernandez,Data Science,Male,77.2,8.8,47.8,53.0,50.9,D,74.2,Robotics Club
+STU-202415,Pat Brown,Civil Eng,Female,82.3,27.5,78.1,74.0,75.6,B,65.1,None
+STU-202416,Dakota Brown,Computer Science,Female,95.1,34.2,94.0,85.4,88.8,A,94.1,Music
+STU-202417,Reese Martinez,Electrical Eng,Female,84.2,27.4,75.1,82.1,79.3,B,79.6,None
+STU-202418,Reese Davis,Mechanical Eng,Male,79.2,9.4,52.7,51.0,51.7,D,66.1,Robotics Club
+STU-202419,Casey Rodriguez,Computer Science,Male,78.4,27.0,82.2,83.9,83.2,B,64.4,Robotics Club
+STU-202420,Alex Brown,Data Science,Male,77.0,8.2,42.8,55.0,50.1,D,69.5,Robotics Club
+STU-202421,Avery Hernandez,Civil Eng,Male,92.9,8.3,60.0,57.4,58.4,C,75.4,Music
+STU-202422,Pat Williams,Computer Science,Male,81.2,13.6,63.8,55.4,58.8,C,67.8,Debate
+STU-202423,Casey Rodriguez,Civil Eng,Male,93.3,28.9,85.1,88.4,87.1,A,78.8,Debate
+STU-202424,Morgan Davis,Electrical Eng,Male,71.1,17.2,59.4,60.2,59.9,C,57.9,Music
+STU-202425,Reese Smith,Electrical Eng,Female,84.0,28.3,75.9,67.2,70.7,B,77.5,None
+STU-202426,Chris Davis,Data Science,Female,94.1,30.5,79.6,73.6,76.0,B,87.9,Music
+STU-202427,Riley Smith,Civil Eng,Male,83.1,15.6,58.7,55.5,56.8,C,79.5,Debate
+STU-202428,Dakota Hernandez,Civil Eng,Female,91.7,16.1,64.2,70.7,68.1,C,89.6,Robotics Club
+STU-202429,Reese Williams,Data Science,Female,84.4,13.9,53.1,54.2,53.8,D,80.1,Debate
+STU-202430,Sam Davis,Mechanical Eng,Female,100.0,9.1,60.0,59.4,59.6,C,88.9,Sports
+STU-202431,Pat Johnson,Data Science,Female,61.9,7.9,46.7,47.2,47.0,D,49.0,Sports
+STU-202432,Cameron Brown,Data Science,Female,76.7,27.2,81.6,71.9,75.8,B,73.9,None
+STU-202433,Jordan Smith,Electrical Eng,Female,84.8,29.6,81.9,84.9,83.7,B,79.9,Robotics Club
+STU-202434,Cameron Martinez,Computer Science,Male,86.4,9.2,58.2,49.2,52.8,D,70.7,Debate
+STU-202435,Sam Williams,Electrical Eng,Male,66.2,9.8,46.9,36.9,40.9,D,54.6,Sports
+STU-202436,Alex Garcia,Computer Science,Male,90.1,13.0,66.6,73.0,70.4,B,88.4,Debate
+STU-202437,Morgan Hernandez,Electrical Eng,Female,90.1,9.4,64.9,59.7,61.8,C,75.6,Music
+STU-202438,Sam Jones,Data Science,Female,77.9,34.3,83.4,83.0,83.2,B,60.3,Sports
+STU-202439,Cameron Miller,Electrical Eng,Female,68.9,11.4,39.9,51.0,46.6,D,68.1,Debate
+STU-202440,Reese Smith,Mechanical Eng,Male,82.5,23.5,73.4,65.5,68.7,C,78.4,Music
+STU-202441,Avery Johnson,Electrical Eng,Male,68.0,28.7,62.9,76.6,71.1,B,58.9,None
+STU-202442,Morgan Hernandez,Data Science,Female,76.8,26.0,66.2,62.5,64.0,C,68.4,Robotics Club
+STU-202443,Sam Davis,Mechanical Eng,Male,67.6,17.6,53.5,51.9,52.5,D,66.9,Music
+STU-202444,Chris Martinez,Mechanical Eng,Male,87.9,6.7,53.9,52.1,52.8,D,74.6,Robotics Club
+STU-202445,Taylor Rodriguez,Electrical Eng,Male,78.2,20.5,70.9,62.2,65.7,C,74.2,Sports
+STU-202446,Taylor Martinez,Civil Eng,Female,99.1,22.9,71.3,70.2,70.6,B,92.6,None
+STU-202447,Reese Brown,Civil Eng,Male,69.1,5.7,37.3,34.6,35.7,F,71.7,Music
+STU-202448,Jordan Jones,Data Science,Female,95.5,9.6,47.1,53.9,51.2,D,86.5,Music
+STU-202449,Casey Martinez,Civil Eng,Male,82.6,18.8,67.8,77.0,73.3,B,78.9,Sports
+STU-202450,Avery Johnson,Mechanical Eng,Female,71.9,21.4,61.8,64.5,63.4,C,55.1,Debate
+STU-202451,Taylor Johnson,Computer Science,Male,76.6,32.4,83.3,84.8,84.2,B,60.5,Robotics Club
+STU-202452,Quinn Jones,Mechanical Eng,Male,78.4,7.6,46.5,48.1,47.5,D,77.7,Sports
+STU-202453,Quinn Lopez,Electrical Eng,Female,81.6,34.0,73.0,81.5,78.1,B,77.9,Sports
+STU-202454,Cameron Brown,Electrical Eng,Male,78.6,19.5,62.1,63.4,62.9,C,77.6,None
+STU-202455,Avery Garcia,Data Science,Male,71.8,28.0,72.2,76.7,74.9,B,71.7,Music
+STU-202456,Cameron Martinez,Data Science,Female,81.1,26.3,71.4,66.2,68.3,C,67.0,Robotics Club
+STU-202457,Alex Rodriguez,Data Science,Male,84.1,8.9,40.9,42.9,42.1,D,80.8,Robotics Club
+STU-202458,Riley Rodriguez,Civil Eng,Male,89.1,33.3,93.8,92.0,92.7,A,71.5,Music
+STU-202459,Sam Williams,Computer Science,Female,94.5,30.8,91.8,84.6,87.5,A,76.4,Robotics Club
+STU-202460,Casey Lopez,Data Science,Female,76.7,32.3,85.4,87.7,86.8,A,74.4,Robotics Club
+STU-202461,Casey Rodriguez,Computer Science,Female,79.5,18.1,63.5,62.2,62.7,C,68.4,Debate
+STU-202462,Avery Martinez,Electrical Eng,Female,100.0,22.0,69.4,77.9,74.5,B,85.0,Sports
+STU-202463,Cameron Hernandez,Electrical Eng,Male,92.6,29.0,83.5,77.5,79.9,B,89.6,Music
+STU-202464,Chris Jones,Mechanical Eng,Female,84.6,12.3,55.8,52.9,54.1,D,66.5,None
+STU-202465,Taylor Garcia,Electrical Eng,Male,69.3,17.2,58.7,66.6,63.4,C,71.6,Music
+STU-202466,Sam Brown,Data Science,Male,73.4,5.6,46.8,44.9,45.7,D,66.4,Sports
+STU-202467,Sam Williams,Civil Eng,Male,93.4,26.9,77.7,85.6,82.4,B,79.8,None
+STU-202468,Jordan Rodriguez,Computer Science,Female,95.6,26.5,85.6,74.5,78.9,B,93.7,Sports
+STU-202469,Morgan Smith,Mechanical Eng,Female,88.2,28.1,74.3,83.8,80.0,B,88.0,Debate
+STU-202470,Taylor Brown,Mechanical Eng,Female,55.5,24.2,66.2,66.7,66.5,C,53.7,Robotics Club
+STU-202471,Pat Davis,Computer Science,Male,75.5,31.6,82.3,73.0,76.7,B,66.6,Music
+STU-202472,Quinn Garcia,Data Science,Female,89.2,26.5,75.1,87.8,82.7,B,82.1,Sports
+STU-202473,Sam Williams,Data Science,Female,74.5,27.4,81.8,79.9,80.7,B,66.5,Robotics Club
+STU-202474,Chris Garcia,Data Science,Male,83.2,27.5,78.2,88.5,84.4,B,71.3,Music
+STU-202475,Dakota Rodriguez,Civil Eng,Male,72.5,20.5,67.9,68.5,68.3,C,66.9,Debate
+STU-202476,Riley Garcia,Civil Eng,Female,80.0,7.4,44.9,57.5,52.5,D,66.5,Robotics Club
+STU-202477,Chris Brown,Computer Science,Male,83.3,27.3,72.3,79.3,76.5,B,70.0,Debate
+STU-202478,Jordan Garcia,Computer Science,Male,89.3,22.2,74.3,80.7,78.1,B,90.0,Debate
+STU-202479,Riley Miller,Electrical Eng,Male,88.1,27.5,80.2,79.1,79.5,B,80.2,Robotics Club
+STU-202480,Quinn Jones,Civil Eng,Male,81.8,10.2,53.3,58.5,56.4,C,76.3,Debate
+STU-202481,Riley Garcia,Mechanical Eng,Female,90.1,21.5,73.4,79.1,76.8,B,81.4,None
+STU-202482,Avery Brown,Data Science,Female,96.0,10.8,54.5,52.6,53.4,D,76.6,Music
+STU-202483,Quinn Hernandez,Civil Eng,Female,83.3,17.1,53.3,67.2,61.6,C,69.0,Debate
+STU-202484,Avery Lopez,Data Science,Male,90.0,20.4,77.7,74.2,75.6,B,80.6,Robotics Club
+STU-202485,Casey Martinez,Electrical Eng,Male,80.0,8.9,47.0,43.8,45.1,D,64.9,None
+STU-202486,Taylor Brown,Data Science,Male,84.3,17.4,62.4,52.0,56.2,C,75.5,Sports
+STU-202487,Quinn Jones,Mechanical Eng,Female,69.3,29.0,67.9,78.0,74.0,B,70.7,Debate
+STU-202488,Dakota Lopez,Computer Science,Male,79.5,22.2,72.6,74.4,73.7,B,80.0,Robotics Club
+STU-202489,Avery Garcia,Computer Science,Female,88.4,16.6,62.3,72.1,68.2,C,70.2,Sports
+STU-202490,Dakota Lopez,Electrical Eng,Female,65.2,29.6,81.0,71.1,75.1,B,50.3,Sports
+STU-202491,Chris Brown,Civil Eng,Male,66.9,8.2,44.2,45.0,44.7,D,67.2,None
+STU-202492,Dakota Smith,Data Science,Male,77.0,27.7,81.7,79.2,80.2,B,75.6,Robotics Club
+STU-202493,Sam Jones,Mechanical Eng,Male,82.6,28.3,68.7,73.6,71.6,B,69.3,Robotics Club
+STU-202494,Jordan Rodriguez,Civil Eng,Male,86.6,20.1,64.2,73.2,69.6,C,72.4,Debate
+STU-202495,Casey Johnson,Civil Eng,Female,60.8,33.0,76.5,72.4,74.0,B,57.3,Debate
+STU-202496,Alex Davis,Computer Science,Female,88.8,28.7,71.0,73.6,72.6,B,75.2,None
+STU-202497,Morgan Garcia,Electrical Eng,Female,88.8,21.4,67.7,78.3,74.1,B,88.0,None
+STU-202498,Pat Hernandez,Electrical Eng,Female,87.8,14.6,67.9,66.1,66.8,C,89.0,Robotics Club
+STU-202499,Jordan Garcia,Civil Eng,Female,77.7,13.9,49.7,55.5,53.2,D,78.9,Sports
+STU-202500,Alex Smith,Mechanical Eng,Female,78.3,12.5,54.0,59.3,57.2,C,77.9,Debate
+STU-202501,Avery Brown,Civil Eng,Male,79.1,28.0,76.2,77.7,77.1,B,77.8,Music
+STU-202502,Avery Lopez,Mechanical Eng,Female,74.9,31.9,75.3,76.9,76.3,B,63.1,None
+STU-202503,Chris Miller,Computer Science,Female,85.7,30.1,87.1,80.5,83.1,B,79.0,Debate
+STU-202504,Cameron Rodriguez,Computer Science,Female,73.7,9.4,37.6,42.0,40.2,D,73.5,Debate
+STU-202505,Dakota Rodriguez,Civil Eng,Female,77.1,26.9,80.1,82.4,81.5,B,72.9,Robotics Club
+STU-202506,Avery Garcia,Electrical Eng,Female,88.2,19.4,63.5,63.5,63.5,C,80.0,Sports
+STU-202507,Chris Johnson,Computer Science,Female,74.8,10.0,58.8,55.8,57.0,C,58.3,Sports
+STU-202508,Dakota Jones,Electrical Eng,Male,79.1,10.7,45.4,52.8,49.8,D,71.1,None
+STU-202509,Jordan Garcia,Computer Science,Female,66.4,18.3,61.6,57.1,58.9,C,59.5,Music
+STU-202510,Dakota Williams,Electrical Eng,Male,80.0,16.9,54.5,51.4,52.6,D,73.1,Sports
+STU-202511,Morgan Davis,Data Science,Female,87.6,34.4,76.8,82.8,80.4,B,75.6,Debate
+STU-202512,Reese Rodriguez,Computer Science,Female,76.3,7.0,51.3,40.5,44.8,D,75.4,None
+STU-202513,Dakota Miller,Data Science,Female,72.8,15.1,52.7,52.9,52.8,D,74.8,Sports
+STU-202514,Pat Martinez,Mechanical Eng,Male,83.4,11.7,59.9,57.3,58.3,C,71.7,Debate
+STU-202515,Pat Hernandez,Civil Eng,Male,86.9,32.4,86.4,77.4,81.0,B,70.3,Sports
+STU-202516,Cameron Williams,Data Science,Female,81.9,33.8,81.9,73.4,76.8,B,76.8,Debate
+STU-202517,Taylor Brown,Mechanical Eng,Female,83.1,30.6,79.7,71.9,75.0,B,68.6,Debate
+STU-202518,Jordan Rodriguez,Data Science,Male,89.8,20.5,63.7,68.7,66.7,C,75.4,Music
+STU-202519,Sam Martinez,Data Science,Male,96.9,28.5,79.5,87.2,84.1,B,82.6,Debate
+STU-202520,Casey Brown,Electrical Eng,Male,79.4,28.3,78.4,80.7,79.8,B,67.1,Music

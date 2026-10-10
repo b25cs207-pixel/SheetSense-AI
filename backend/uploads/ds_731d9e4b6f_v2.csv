@@ -1,0 +1,151 @@
+Transaction_ID,Date,Region,Category,Product_Name,Units_Sold,Unit_Price,Revenue,Cost,Profit,Customer_Segment,Payment_Method,Returned
+TXN-1001,2025-11-24,North,Electronics,Wireless Headphones,1,149,99999,75,74,Consumer,Credit Card,No
+TXN-1002,2025-10-07,North,Fitness,Yoga Mat Eco,1,40,40,18,22,Consumer,PayPal,No
+TXN-1003,2025-01-14,Central,Office Supplies,Gel Pen Box,1,15,15,6,9,Small Business,Bank Transfer,No
+TXN-1004,2025-01-04,South,Fitness,Treadmill Home,1,899,899,580,319,Consumer,Bank Transfer,No
+TXN-1005,2025-07-14,North,Furniture,Desk Lamp LED,3,45,135,60,75,Consumer,Debit Card,No
+TXN-1006,2025-07-13,North,Furniture,Desk Lamp LED,3,45,135,60,75,Small Business,Credit Card,Yes
+TXN-1007,2025-04-27,East,Electronics,Laptop Ultra,5,1199,5995,4250,1745,Corporate,Bank Transfer,No
+TXN-1008,2025-07-06,South,Furniture,Desk Lamp LED,1,45,45,20,25,Corporate,Credit Card,No
+TXN-1009,2025-03-29,Central,Office Supplies,Standing Desk,2,450,900,520,380,Corporate,PayPal,No
+TXN-1010,2025-01-29,South,Electronics,Wireless Headphones,2,149,298,150,148,Consumer,PayPal,No
+TXN-1011,2025-10-18,East,Office Supplies,Gel Pen Box,2,15,30,12,18,Small Business,Debit Card,No
+TXN-1012,2025-03-13,South,Furniture,Executive Desk,5,650,3250,1900,1350,Corporate,Bank Transfer,No
+TXN-1013,2025-03-12,Central,Fitness,Yoga Mat Eco,4,40,160,72,88,Consumer,PayPal,No
+TXN-1014,2025-12-15,West,Electronics,Smart Watch,2,249,498,260,238,Corporate,Bank Transfer,No
+TXN-1015,2025-01-06,North,Furniture,Desk Lamp LED,1,45,45,20,25,Corporate,PayPal,No
+TXN-1016,2025-05-15,Central,Office Supplies,Ergonomic Chair,5,280,1400,750,650,Corporate,PayPal,No
+TXN-1017,2025-03-24,Central,Electronics,Wireless Headphones,2,149,298,150,148,Consumer,Bank Transfer,No
+TXN-1018,2025-06-07,South,Electronics,Laptop Ultra,5,1199,5995,4250,1745,Consumer,Credit Card,No
+TXN-1019,2025-02-05,Central,Office Supplies,Standing Desk,3,450,1350,780,570,Small Business,PayPal,No
+TXN-1020,2025-11-07,West,Office Supplies,Standing Desk,3,450,1350,780,570,Corporate,Bank Transfer,No
+TXN-1021,2025-09-22,West,Electronics,Laptop Ultra,1,1199,1199,850,349,Corporate,Credit Card,No
+TXN-1022,2025-04-28,Central,Office Supplies,Ergonomic Chair,1,280,280,150,130,Small Business,Credit Card,No
+TXN-1023,2025-01-17,East,Electronics,Laptop Ultra,1,1199,1199,850,349,Corporate,PayPal,No
+TXN-1024,2025-10-20,Central,Fitness,Adjustable Dumbbells,4,199,796,440,356,Corporate,PayPal,No
+TXN-1025,2025-12-04,West,Furniture,Executive Desk,2,650,1300,760,540,Small Business,Credit Card,No
+TXN-1026,2025-11-27,North,Electronics,Smart Watch,3,249,747,390,357,Consumer,PayPal,No
+TXN-1027,2025-10-02,West,Office Supplies,Gel Pen Box,1,15,15,6,9,Corporate,PayPal,No
+TXN-1028,2025-02-08,West,Electronics,Smartphone Pro,3,799,2397,1560,837,Small Business,Credit Card,No
+TXN-1029,2025-05-02,South,Fitness,Resistance Bands,2,29,58,20,38,Corporate,Credit Card,No
+TXN-1030,2025-01-02,West,Furniture,Executive Desk,1,650,650,380,270,Small Business,Debit Card,No
+TXN-1031,2025-06-01,South,Electronics,Smartphone Pro,3,799,2397,1560,837,Consumer,Credit Card,No
+TXN-1032,2025-09-15,Central,Office Supplies,Ergonomic Chair,8,280,2240,1200,1040,Consumer,PayPal,No
+TXN-1033,2025-02-04,South,Fitness,Yoga Mat Eco,8,40,320,144,176,Small Business,PayPal,No
+TXN-1034,2025-01-21,Central,Electronics,Smart Watch,3,249,747,390,357,Small Business,Bank Transfer,No
+TXN-1035,2025-04-15,East,Office Supplies,Paper Pack Premium,2,25,50,24,26,Small Business,Bank Transfer,No
+TXN-1036,2025-02-07,North,Fitness,Yoga Mat Eco,1,40,40,18,22,Consumer,Bank Transfer,No
+TXN-1037,2025-06-28,North,Office Supplies,Paper Pack Premium,1,25,25,12,13,Corporate,Bank Transfer,No
+TXN-1038,2025-12-01,Central,Electronics,Wireless Headphones,8,149,1192,600,592,Consumer,PayPal,No
+TXN-1039,2025-02-24,Central,Office Supplies,Paper Pack Premium,1,25,25,12,13,Consumer,Bank Transfer,No
+TXN-1040,2025-11-21,East,Fitness,Treadmill Home,5,899,4495,2900,1595,Consumer,Credit Card,No
+TXN-1041,2025-05-22,North,Electronics,Wireless Headphones,4,149,596,300,296,Small Business,Bank Transfer,No
+TXN-1042,2025-08-15,Central,Fitness,Yoga Mat Eco,1,40,40,18,22,Small Business,PayPal,No
+TXN-1043,2025-07-09,Central,Office Supplies,Gel Pen Box,1,15,15,6,9,Corporate,Bank Transfer,No
+TXN-1044,2025-01-21,East,Office Supplies,Standing Desk,3,450,1350,780,570,Corporate,Debit Card,No
+TXN-1045,2025-03-21,South,Office Supplies,Standing Desk,5,450,2250,1300,950,Consumer,PayPal,No
+TXN-1046,2025-06-20,West,Office Supplies,Paper Pack Premium,1,25,25,12,13,Small Business,Credit Card,No
+TXN-1047,2025-01-20,West,Office Supplies,Standing Desk,4,450,1800,1040,760,Corporate,Bank Transfer,No
+TXN-1048,2025-04-27,South,Electronics,Laptop Ultra,2,1199,2398,1700,698,Corporate,Credit Card,No
+TXN-1049,2025-05-23,East,Fitness,Treadmill Home,8,899,7192,4640,2552,Consumer,Bank Transfer,No
+TXN-1050,2025-05-16,North,Electronics,Smart Watch,2,249,498,260,238,Corporate,Debit Card,No
+TXN-1051,2025-09-19,North,Fitness,Adjustable Dumbbells,1,199,199,110,89,Small Business,Debit Card,Yes
+TXN-1052,2025-10-03,South,Furniture,Executive Desk,1,650,650,380,270,Small Business,Bank Transfer,No
+TXN-1053,2025-12-06,North,Furniture,Desk Lamp LED,3,45,135,60,75,Corporate,Debit Card,No
+TXN-1054,2025-10-11,South,Office Supplies,Gel Pen Box,3,15,45,18,27,Corporate,PayPal,No
+TXN-1055,2025-06-04,West,Electronics,Wireless Headphones,1,149,149,75,74,Corporate,Bank Transfer,No
+TXN-1056,2025-08-15,South,Fitness,Adjustable Dumbbells,3,199,597,330,267,Corporate,Bank Transfer,No
+TXN-1057,2025-05-01,East,Office Supplies,Standing Desk,1,450,450,260,190,Consumer,PayPal,No
+TXN-1058,2025-11-09,North,Fitness,Resistance Bands,5,29,145,50,95,Small Business,PayPal,No
+TXN-1059,2025-07-16,West,Fitness,Adjustable Dumbbells,1,199,199,110,89,Small Business,Credit Card,No
+TXN-1060,2025-02-24,West,Office Supplies,Standing Desk,4,450,1800,1040,760,Small Business,Debit Card,Yes
+TXN-1061,2025-05-08,North,Fitness,Adjustable Dumbbells,4,199,796,440,356,Small Business,Bank Transfer,No
+TXN-1062,2025-08-15,Central,Fitness,Resistance Bands,5,29,145,50,95,Small Business,Debit Card,No
+TXN-1063,2025-05-07,East,Fitness,Adjustable Dumbbells,1,199,199,110,89,Consumer,Bank Transfer,No
+TXN-1064,2025-06-21,East,Electronics,Laptop Ultra,1,1199,1199,850,349,Corporate,PayPal,No
+TXN-1065,2025-02-02,West,Fitness,Treadmill Home,2,899,1798,1160,638,Corporate,Credit Card,No
+TXN-1066,2025-08-04,West,Electronics,Smart Watch,2,249,498,260,238,Corporate,Bank Transfer,No
+TXN-1067,2025-08-03,Central,Office Supplies,Gel Pen Box,1,15,15,6,9,Corporate,Debit Card,Yes
+TXN-1068,2025-06-22,West,Office Supplies,Gel Pen Box,5,15,75,30,45,Small Business,Credit Card,No
+TXN-1069,2025-10-31,Central,Electronics,Smartphone Pro,3,799,2397,1560,837,Consumer,Debit Card,No
+TXN-1070,2025-05-14,West,Furniture,Coffee Table Glass,2,220,440,220,220,Corporate,Debit Card,No
+TXN-1071,2025-08-04,East,Electronics,Smart Watch,1,249,249,130,119,Small Business,Credit Card,No
+TXN-1072,2025-06-29,South,Electronics,Smartphone Pro,4,799,3196,2080,1116,Consumer,PayPal,No
+TXN-1073,2025-11-15,South,Office Supplies,Standing Desk,2,450,900,520,380,Consumer,PayPal,No
+TXN-1074,2025-05-12,East,Office Supplies,Ergonomic Chair,4,280,1120,600,520,Consumer,Bank Transfer,No
+TXN-1075,2025-01-14,East,Fitness,Resistance Bands,8,29,232,80,152,Consumer,Credit Card,No
+TXN-1076,2025-11-18,South,Electronics,Wireless Headphones,5,149,745,375,370,Small Business,Credit Card,No
+TXN-1077,2025-10-17,North,Furniture,Executive Desk,3,650,1950,1140,810,Consumer,Bank Transfer,Yes
+TXN-1078,2025-08-04,West,Electronics,Smart Watch,8,249,1992,1040,952,Small Business,Debit Card,No
+TXN-1079,2025-08-11,South,Furniture,Executive Desk,2,650,1300,760,540,Small Business,Bank Transfer,No
+TXN-1080,2025-05-06,North,Furniture,Executive Desk,1,650,650,380,270,Corporate,Debit Card,No
+TXN-1081,2025-09-11,East,Office Supplies,Gel Pen Box,1,15,15,6,9,Corporate,Bank Transfer,No
+TXN-1082,2025-11-02,East,Electronics,Laptop Ultra,1,1199,1199,850,349,Small Business,Debit Card,No
+TXN-1083,2025-05-04,West,Fitness,Resistance Bands,4,29,116,40,76,Consumer,Bank Transfer,No
+TXN-1084,2025-12-21,South,Furniture,Desk Lamp LED,2,45,90,40,50,Small Business,Bank Transfer,No
+TXN-1085,2025-10-09,East,Furniture,Executive Desk,1,650,650,380,270,Corporate,PayPal,No
+TXN-1086,2025-04-09,East,Electronics,Laptop Ultra,1,1199,1199,850,349,Small Business,Debit Card,No
+TXN-1087,2025-10-29,Central,Furniture,Bookshelf Oak,4,180,720,380,340,Corporate,PayPal,No
+TXN-1088,2025-06-04,North,Office Supplies,Paper Pack Premium,1,25,25,12,13,Consumer,Bank Transfer,No
+TXN-1089,2025-03-06,West,Electronics,Smartphone Pro,3,799,2397,1560,837,Corporate,Debit Card,No
+TXN-1090,2025-04-05,North,Furniture,Executive Desk,1,650,650,380,270,Consumer,Debit Card,No
+TXN-1091,2025-10-23,North,Office Supplies,Standing Desk,4,450,1800,1040,760,Corporate,Credit Card,No
+TXN-1092,2025-03-02,Central,Fitness,Adjustable Dumbbells,4,199,796,440,356,Corporate,Debit Card,No
+TXN-1093,2025-06-02,Central,Fitness,Treadmill Home,3,899,2697,1740,957,Consumer,Credit Card,No
+TXN-1094,2025-04-17,South,Furniture,Bookshelf Oak,1,180,180,95,85,Consumer,Credit Card,No
+TXN-1095,2025-07-29,West,Fitness,Treadmill Home,1,899,899,580,319,Corporate,Bank Transfer,No
+TXN-1096,2025-08-21,North,Office Supplies,Paper Pack Premium,4,25,100,48,52,Small Business,PayPal,No
+TXN-1097,2025-10-06,South,Office Supplies,Paper Pack Premium,4,25,100,48,52,Consumer,Credit Card,No
+TXN-1098,2025-06-07,Central,Furniture,Executive Desk,1,650,650,380,270,Small Business,Bank Transfer,No
+TXN-1099,2025-05-20,Central,Fitness,Resistance Bands,1,29,29,10,19,Consumer,Debit Card,No
+TXN-1100,2025-11-06,East,Electronics,Smartphone Pro,1,799,799,520,279,Small Business,Credit Card,No
+TXN-1101,2025-12-11,East,Electronics,Laptop Ultra,2,1199,2398,1700,698,Small Business,Debit Card,No
+TXN-1102,2025-04-03,Central,Fitness,Resistance Bands,8,29,232,80,152,Corporate,Bank Transfer,No
+TXN-1103,2025-06-14,North,Office Supplies,Paper Pack Premium,2,25,50,24,26,Corporate,Bank Transfer,No
+TXN-1104,2025-07-25,Central,Electronics,Smart Watch,1,249,249,130,119,Corporate,Bank Transfer,No
+TXN-1105,2025-07-26,Central,Electronics,Smart Watch,2,249,498,260,238,Consumer,Bank Transfer,No
+TXN-1106,2025-09-13,West,Electronics,Laptop Ultra,1,1199,1199,850,349,Consumer,Bank Transfer,No
+TXN-1107,2025-12-24,West,Electronics,Smartphone Pro,10,799,7990,5200,2790,Small Business,PayPal,No
+TXN-1108,2025-06-09,Central,Electronics,Smart Watch,1,249,249,130,119,Consumer,Debit Card,No
+TXN-1109,2025-11-28,South,Fitness,Treadmill Home,2,899,1798,1160,638,Corporate,Debit Card,No
+TXN-1110,2025-08-30,South,Fitness,Adjustable Dumbbells,2,199,398,220,178,Small Business,PayPal,No
+TXN-1111,2025-05-22,West,Furniture,Desk Lamp LED,4,45,180,80,100,Corporate,Bank Transfer,No
+TXN-1112,2025-10-24,West,Office Supplies,Gel Pen Box,2,15,30,12,18,Corporate,Bank Transfer,No
+TXN-1113,2025-10-06,West,Fitness,Treadmill Home,5,899,4495,2900,1595,Small Business,PayPal,No
+TXN-1114,2025-04-30,West,Electronics,Wireless Headphones,3,149,447,225,222,Small Business,Debit Card,No
+TXN-1115,2025-12-06,South,Fitness,Yoga Mat Eco,1,40,40,18,22,Small Business,Bank Transfer,No
+TXN-1116,2025-08-14,North,Fitness,Yoga Mat Eco,3,40,120,54,66,Corporate,PayPal,No
+TXN-1117,2025-05-16,East,Fitness,Yoga Mat Eco,5,40,200,90,110,Small Business,Debit Card,No
+TXN-1118,2025-11-17,West,Electronics,Smartphone Pro,1,799,799,520,279,Small Business,Bank Transfer,No
+TXN-1119,2025-02-16,West,Electronics,Smartphone Pro,2,799,1598,1040,558,Small Business,Bank Transfer,No
+TXN-1120,2025-01-24,East,Electronics,Wireless Headphones,2,149,298,150,148,Corporate,PayPal,No
+TXN-1121,2025-07-30,Central,Office Supplies,Standing Desk,1,450,450,260,190,Small Business,Debit Card,No
+TXN-1122,2025-05-04,West,Office Supplies,Standing Desk,2,450,900,520,380,Corporate,Debit Card,No
+TXN-1123,2025-01-05,West,Furniture,Coffee Table Glass,1,220,220,110,110,Corporate,Bank Transfer,No
+TXN-1124,2025-08-06,East,Fitness,Treadmill Home,1,899,899,580,319,Corporate,Debit Card,No
+TXN-1125,2025-07-15,Central,Furniture,Desk Lamp LED,10,45,450,200,250,Corporate,Credit Card,No
+TXN-1126,2025-12-04,West,Furniture,Bookshelf Oak,3,180,540,285,255,Small Business,Credit Card,No
+TXN-1127,2025-09-12,East,Office Supplies,Paper Pack Premium,1,25,25,12,13,Consumer,Bank Transfer,No
+TXN-1128,2025-12-04,South,Electronics,Smartphone Pro,2,799,1598,1040,558,Corporate,Credit Card,No
+TXN-1129,2025-03-09,North,Furniture,Desk Lamp LED,3,45,135,60,75,Consumer,PayPal,No
+TXN-1130,2025-10-04,East,Furniture,Coffee Table Glass,1,220,220,110,110,Corporate,Bank Transfer,No
+TXN-1131,2025-06-23,North,Fitness,Yoga Mat Eco,1,40,40,18,22,Consumer,Debit Card,No
+TXN-1132,2025-10-13,East,Electronics,Smart Watch,1,249,249,130,119,Small Business,Credit Card,No
+TXN-1133,2025-12-11,East,Fitness,Treadmill Home,1,899,899,580,319,Consumer,Debit Card,Yes
+TXN-1134,2025-10-15,East,Office Supplies,Ergonomic Chair,3,280,840,450,390,Corporate,Bank Transfer,No
+TXN-1135,2025-03-01,South,Electronics,Smartphone Pro,2,799,1598,1040,558,Corporate,Credit Card,No
+TXN-1136,2025-10-03,South,Fitness,Resistance Bands,2,29,58,20,38,Small Business,Debit Card,No
+TXN-1137,2025-03-21,West,Electronics,Smart Watch,3,249,747,390,357,Corporate,Credit Card,No
+TXN-1138,2025-04-22,West,Fitness,Adjustable Dumbbells,5,199,995,550,445,Consumer,Bank Transfer,No
+TXN-1139,2025-11-27,East,Electronics,Smart Watch,1,249,249,130,119,Consumer,Debit Card,No
+TXN-1140,2025-04-19,Central,Electronics,Smartphone Pro,4,799,3196,2080,1116,Consumer,PayPal,No
+TXN-1141,2025-04-16,North,Office Supplies,Standing Desk,4,450,1800,1040,760,Consumer,Bank Transfer,No
+TXN-1142,2025-11-02,North,Furniture,Coffee Table Glass,10,220,2200,1100,1100,Small Business,Bank Transfer,No
+TXN-1143,2025-02-26,North,Office Supplies,Ergonomic Chair,2,280,560,300,260,Consumer,Bank Transfer,Yes
+TXN-1144,2025-05-16,North,Office Supplies,Gel Pen Box,2,15,30,12,18,Small Business,Credit Card,No
+TXN-1145,2025-07-05,Central,Electronics,Smart Watch,2,249,498,260,238,Small Business,Credit Card,No
+TXN-1146,2025-12-04,Central,Furniture,Executive Desk,3,650,1950,1140,810,Consumer,Credit Card,No
+TXN-1147,2025-07-25,West,Electronics,Smart Watch,3,249,747,390,357,Corporate,Credit Card,No
+TXN-1148,2025-06-14,Central,Office Supplies,Ergonomic Chair,1,280,280,150,130,Small Business,Bank Transfer,No
+TXN-1149,2025-11-02,Central,Furniture,Executive Desk,2,650,1300,760,540,Corporate,Credit Card,No
+TXN-1150,2025-02-28,Central,Office Supplies,Gel Pen Box,2,15,30,12,18,Consumer,Debit Card,No
